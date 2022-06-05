@@ -2,4 +2,5 @@
 <ul>
   <li>Database: <a href="https://zodb.org/en/latest/">ZODB</a></li>
   <li>Owner: <a href="https://github.com/kunboy1608">Hoàng Đình Phú</a></li>
+  <li>Requirement: Python 2.7 or newer</li>
 </ul>
